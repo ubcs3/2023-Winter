@@ -13,4 +13,4 @@ Our seminar meets every **Friday 11-12pm**. Please join the [UBCS3 mailing list]
 | Date | Topic | Presenter |
 | :---: | :---: | :---: |
 | January 27 | [Discrete Optimal Transport with CVXPY](01-27-walls/ot_cvxpy.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
-| February 3 | [Image Classification and Discret Optimal Transport](02-03-walls/ot_images.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
+| February 3 | [Image Classification and Discrete Optimal Transport](02-03-walls/ot_images.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
