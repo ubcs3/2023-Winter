@@ -14,3 +14,4 @@ Our seminar meets every **Friday 11-12pm**. Please join the [UBCS3 mailing list]
 | February 3 | [Image Classification and Discrete Optimal Transport](02-03-walls/ot_images.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
 | February 10 | [Numerical Simulations of Stochastic Differential Equations (Part I)](02-10-walls/sdes.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
 | February 17 | [Numerical Simulations of Stochastic Differential Equations (Part II)](02-17-walls/sdes2.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
+| March 10 | [Numerical Methods for Partial Differential Equations](03-10-walls/pdes.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
