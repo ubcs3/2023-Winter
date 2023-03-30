@@ -15,3 +15,5 @@ Our seminar meets every **Friday 11-12pm**. Please join the [UBCS3 mailing list]
 | February 10 | [Numerical Simulations of Stochastic Differential Equations (Part I)](02-10-walls/sdes.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
 | February 17 | [Numerical Simulations of Stochastic Differential Equations (Part II)](02-17-walls/sdes2.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
 | March 10 | [Numerical Methods for Partial Differential Equations](03-10-walls/pdes.ipynb) | [Patrick Walls](https://github.com/patrickwalls) |
+| March 17 | [Computational Mathematical Modelling with Basilisk](03-17-xiao/bump.c) | [Yuqi Xiao](https://github.com/Yuqi-eng) |
+| March 24 | [Interactive Programming using Pluto Notebook](03-24-huet/pluto_introduction.html) | [Damien Huet](https://github.com/DamienHuet) |
